@@ -4,7 +4,7 @@
 
 This is a real time 2 players game.
 They are in a labyrinth and they have to found the exit before the opponent.
-They can put traps and obstacles and get powers (mouving faster, pass through walls) by collecting items on the map
+They can put traps and obstacles and get powers (moving faster, pass through walls) by collecting items on the map
 
 -GamePLay
 
