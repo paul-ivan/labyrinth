@@ -25,5 +25,5 @@ There is a sets of labytrinth maps wich contains multiples words (egyptian, medi
 Elements needed :
 textures for the wall and grounds
 3d objects for traps and powers
-
+3d models representing the players.
 
